@@ -30,3 +30,14 @@ example#2
 let string = "this is the string";
 string[0]= 'T'
 console.log('string');
+
+varibles are like jars for  a value in javaScript we can store a value and give it a name, so that we can 
+- ewcall it 
+-use it
+-or change it later on
+let var canst
+let someName = value;
+var someName = value;
+const someName value;
+ let and var we will the changed the value after a create and assignment but the const cannot changed the value after Assignment
+
