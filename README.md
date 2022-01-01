@@ -1,1 +1,1 @@
-# javascript-_fundaments
+# JavaScript Interview Questions
